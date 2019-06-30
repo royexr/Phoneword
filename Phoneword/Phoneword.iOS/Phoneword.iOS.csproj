@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2BC49C59-4AAB-412C-900F-989BFF0D38F5}</ProjectGuid>
+    <ProjectGuid>{029E6465-DEEE-42D9-9EA8-64D4B9D05FEE}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -126,7 +126,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Phoneword\Phoneword.csproj">
-      <Project>{DDD19D75-701C-4909-8A56-ECCB79D37C02}</Project>
+      <Project>{642133F4-B891-4C83-861B-4C3F6F5902AA}</Project>
       <Name>Phoneword</Name>
     </ProjectReference>
   </ItemGroup>
